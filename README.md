@@ -1,3 +1,1 @@
-Faris Hurić
-Junior Software Developer
-
+<h1>Faris Hurić</h1>
